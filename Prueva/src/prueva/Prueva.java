@@ -16,11 +16,9 @@ public class Prueva {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-<<<<<<< HEAD
-        System.out.println("Nuevo mensaje");
-=======
-        
->>>>>>> AgregarForm
+
+        System.out.println("Nuevo mensaje2");
+
         // TODO code application logic here
         
     }
