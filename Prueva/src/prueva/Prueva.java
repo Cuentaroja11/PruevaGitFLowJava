@@ -17,6 +17,10 @@ public class Prueva {
      */
     public static void main(String[] args) {
         System.out.println("Mensaje4");
+        System.out.println("Mensaje3");
+
+        System.out.println("Nuevo mensaje2");
+
         // TODO code application logic here
         
     }
